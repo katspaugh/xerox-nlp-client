@@ -1,0 +1,332 @@
+[
+  {
+    "tag": "+ADJA",
+    "description": "(positive) attributive adjective",
+    "example": "[ein] schnelles [Auto]"
+  },
+  {
+    "tag": "+ADJA2",
+    "description": "comparative attributive adjective",
+    "example": "[ein] schnelleres [Auto]"
+  },
+  {
+    "tag": "+ADJA3",
+    "description": "superlative attributive adjective",
+    "example": "[das] schnellste [Auto]"
+  },
+  {
+    "tag": "+ADJD",
+    "description": "(positive) predicative or adverbial adjective",
+    "example": "[es ist] schnell, [es fährt] schnell"
+  },
+  {
+    "tag": "+ADJD2",
+    "description": "comparative predicative or adverbial adjective",
+    "example": "[es ist] schneller, [es fährt] schneller"
+  },
+  {
+    "tag": "+ADJD3",
+    "description": "superlative predicative or adverbial adjective",
+    "example": "[es ist am] schnellsten, [es fährt am] schnellsten"
+  },
+  {
+    "tag": "+ADV",
+    "description": "non-adjectival adverb",
+    "example": "oft, heute, bald, vielleicht"
+  },
+  {
+    "tag": "+ART",
+    "description": "article",
+    "example": "der [Mann], eine [Frau]"
+  },
+  {
+    "tag": "+CARD",
+    "description": "cardinal",
+    "example": "1, eins, 1/8, 205"
+  },
+  {
+    "tag": "+CIRCP",
+    "description": "circumposition, right part",
+    "example": "[um der Ehre] willen"
+  },
+  {
+    "tag": "+CM",
+    "description": "comma",
+    "example": ","
+  },
+  {
+    "tag": "+COADV",
+    "description": "adverbial conjunction",
+    "example": "aber, doch, denn"
+  },
+  {
+    "tag": "+COALS",
+    "description": "conjunction \"als\"",
+    "example": "als"
+  },
+  {
+    "tag": "+COINF",
+    "description": "infinitival conjunction",
+    "example": "ohne [zu fragen], anstatt [anzurufen]"
+  },
+  {
+    "tag": "+COORD",
+    "description": "coordinating conjunction",
+    "example": "und, oder"
+  },
+  {
+    "tag": "+COP1",
+    "description": "coordination 1st part",
+    "example": "entweder [... oder]"
+  },
+  {
+    "tag": "+COP2",
+    "description": "coordination 2nd part",
+    "example": "[weder ...] noch"
+  },
+  {
+    "tag": "+COSUB",
+    "description": "subordinating conjunction",
+    "example": "weil, daß, ob"
+  },
+  {
+    "tag": "+COWIE",
+    "description": "conjunction \"wie\"",
+    "example": "wie"
+  },
+  {
+    "tag": "+DATE",
+    "description": "date",
+    "example": "12. Mai, 27. 12. 96"
+  },
+  {
+    "tag": "+DEMADJ",
+    "description": "demonstrative adjective",
+    "example": "solche [Mühe]"
+  },
+  {
+    "tag": "+DEMDET",
+    "description": "demonstrative determiner",
+    "example": "diese [Leute]"
+  },
+  {
+    "tag": "+DEMINV",
+    "description": "invariant demonstrative",
+    "example": "solch [ein schönes Buch]"
+  },
+  {
+    "tag": "+DEMPRO",
+    "description": "demonstrative pronoun",
+    "example": "jener [sagte]"
+  },
+  {
+    "tag": "+INDADJ",
+    "description": "indefinite adjective",
+    "example": "[die] meisten [Leute], viele [Leute], [die] meisten [sindda], viele [sind da]"
+  },
+  {
+    "tag": "+INDDET",
+    "description": "indefinite determiner",
+    "example": "kein [Mensch]"
+  },
+  {
+    "tag": "+INDINV",
+    "description": "invariant indefinite",
+    "example": "manch [einer]"
+  },
+  {
+    "tag": "+INDPRO",
+    "description": "indefinite pronoun",
+    "example": "man [sagt]"
+  },
+  {
+    "tag": "+ITJ",
+    "description": "interjection",
+    "example": "oh, ach, weh, hurra"
+  },
+  {
+    "tag": "+NOUN",
+    "description": "common noun, nominalized adjective, nominalized infinitive,or proper name",
+    "example": "Hut, Leute [das] Gute, [das] Wollen, Peter, [die]Schweiz"
+  },
+  {
+    "tag": "+ORD",
+    "description": "ordinal",
+    "example": "2., dritter, 1.2"
+  },
+  {
+    "tag": "+PERSPRO",
+    "description": "personal pronoun",
+    "example": "ich, du, ihm, mich, uns"
+  },
+  {
+    "tag": "+POSDET",
+    "description": "possessive determiner",
+    "example": "mein [Haus]"
+  },
+  {
+    "tag": "+POSPRO",
+    "description": "possessive pronoun",
+    "example": "[das ist] meins"
+  },
+  {
+    "tag": "+POSTP",
+    "description": "postposition",
+    "example": "[des Geldes] wegen"
+  },
+  {
+    "tag": "+PREP",
+    "description": "preposition",
+    "example": "in, auf, wegen, mit"
+  },
+  {
+    "tag": "+PREPART",
+    "description": "preposition + article",
+    "example": "im, ins, aufs"
+  },
+  {
+    "tag": "+PROADV",
+    "description": "pronominal adverb",
+    "example": "[er redet] darüber"
+  },
+  {
+    "tag": "+PTKANT",
+    "description": "sentential particle",
+    "example": "ja, nein, bitte, danke"
+  },
+  {
+    "tag": "+PTKCOM",
+    "description": "comparative particle",
+    "example": "je [mehr], desto [schneller]"
+  },
+  {
+    "tag": "+PTKINF",
+    "description": "particle: infinitival 'zu'",
+    "example": "[er wagt] zu [sagen]"
+  },
+  {
+    "tag": "+PTKNEG",
+    "description": "particle: negation 'nicht'",
+    "example": "nicht"
+  },
+  {
+    "tag": "+PTKPOS",
+    "description": "positive modifier",
+    "example": "zu [schnell], allzu [schnell]"
+  },
+  {
+    "tag": "+PTKSUP",
+    "description": "superlative modifier",
+    "example": "am [schnellsten]"
+  },
+  {
+    "tag": "+PUNCT",
+    "description": "other punctuation, bracket",
+    "example": "; : ( ) [ ] - \"K ''"
+  },
+  {
+    "tag": "+REFLPRO",
+    "description": "reflexive \"sich\"",
+    "example": "sich"
+  },
+  {
+    "tag": "+RELPRO",
+    "description": "relative pronoun",
+    "example": "[der Mann], der [lacht]"
+  },
+  {
+    "tag": "+REZPRO",
+    "description": "reciprocal \"einander\"",
+    "example": "einander"
+  },
+  {
+    "tag": "+SENT",
+    "description": "sentence final punctuation",
+    "example": ". ? !"
+  },
+  {
+    "tag": "+SYM",
+    "description": "symbols",
+    "example": "@, %"
+  },
+  {
+    "tag": "+TRUNC",
+    "description": "truncated word, (first part of a compound or verbprefix)",
+    "example": "Ein- [und Ausgang], Kinder- [und Jugendheim], be- [undentladen]"
+  },
+  {
+    "tag": "+VAFIN",
+    "description": "finite auxiliary",
+    "example": "[er] ist, [sie] haben"
+  },
+  {
+    "tag": "+VAINF",
+    "description": "auxiliary infinitive",
+    "example": "[er will groß] sein"
+  },
+  {
+    "tag": "+VAPP",
+    "description": "auxiliary past participle",
+    "example": "[er ist groß] geworden"
+  },
+  {
+    "tag": "+VMFIN",
+    "description": "finite modal",
+    "example": "[er] kann, [er] mochte"
+  },
+  {
+    "tag": "+VMINF",
+    "description": "modal infinitive",
+    "example": "[er wird kommen] können, [er hat kommen] wollen"
+  },
+  {
+    "tag": "+VMPP",
+    "description": "modal past participle",
+    "example": "[er hat es] gekonnt"
+  },
+  {
+    "tag": "+VPREF",
+    "description": "separated verbal prefix",
+    "example": "[er kauft] ein, [sie sieht] zu"
+  },
+  {
+    "tag": "+VVFIN",
+    "description": "finite verb form",
+    "example": "[er] sagt"
+  },
+  {
+    "tag": "+VVINF",
+    "description": "infinitive",
+    "example": "[er will] sagen, einkaufen"
+  },
+  {
+    "tag": "+VVIZU",
+    "description": "infinitive with incorporated \"zu\"",
+    "example": "[um] einzukaufen"
+  },
+  {
+    "tag": "+VVPP",
+    "description": "past participle:",
+    "example": "[er hat] gesagt"
+  },
+  {
+    "tag": "+WADV",
+    "description": "interrogative adverb",
+    "example": "wieso [kommt er?]"
+  },
+  {
+    "tag": "+WDET",
+    "description": "interrogative determiner",
+    "example": "welche [Nummer?]"
+  },
+  {
+    "tag": "+WINV",
+    "description": "invariant interrogative",
+    "example": "welch [ein ...]"
+  },
+  {
+    "tag": "+WPRO",
+    "description": "interrogative pronoun",
+    "example": "wer [ist da?]"
+  }
+]

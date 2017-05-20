@@ -1,0 +1,352 @@
+[
+  {
+    "tag": "+ADJ",
+    "description": "(basic) adjective",
+    "example": "[a] blue [book], [he is] big"
+  },
+  {
+    "tag": "+ADJCMP",
+    "description": "comparative adjective",
+    "example": "[he is] bigger, [a] better [question]"
+  },
+  {
+    "tag": "+ADJING",
+    "description": "adjectival ing-form",
+    "example": "[the] working [men]"
+  },
+  {
+    "tag": "+ADJPAP",
+    "description": "adjectival past participle",
+    "example": "[a] locked [door]"
+  },
+  {
+    "tag": "+ADJPRON",
+    "description": "pronoun (with determiner) or adjective",
+    "example": "[the] same; [the] other [way]"
+  },
+  {
+    "tag": "+ADJSUP",
+    "description": "superlative adjective",
+    "example": "[he is the] biggest; [the] best [cake]"
+  },
+  {
+    "tag": "+ADV",
+    "description": "(basic) adverb",
+    "example": "today, quickly"
+  },
+  {
+    "tag": "+ADVCMP",
+    "description": "comparative adverb",
+    "example": "sooner"
+  },
+  {
+    "tag": "+ADVSUP",
+    "description": "superlative adverb",
+    "example": "soonest"
+  },
+  {
+    "tag": "+CARD",
+    "description": "cardinal (except one)",
+    "example": "two, 123, IV"
+  },
+  {
+    "tag": "+CARDONE",
+    "description": "cardinal one",
+    "example": "[at] one [time] ; one [dollar]"
+  },
+  {
+    "tag": "+CM",
+    "description": "comma",
+    "example": ","
+  },
+  {
+    "tag": "+COADV",
+    "description": "coordination adverbs either, neither",
+    "example": "either [by law o by force]; [he didn't come] either"
+  },
+  {
+    "tag": "+COORD",
+    "description": "coordinating conjunction",
+    "example": "and, or"
+  },
+  {
+    "tag": "+COSUB",
+    "description": "subordinating conjunction",
+    "example": "because, while"
+  },
+  {
+    "tag": "+COTHAN",
+    "description": "conjunction than",
+    "example": "[bigger] than"
+  },
+  {
+    "tag": "+DET",
+    "description": "determiner",
+    "example": "the, a, this, my [house]"
+  },
+  {
+    "tag": "+DETREL",
+    "description": "relative determiner whose",
+    "example": "[the man] whose [hat ...]"
+  },
+  {
+    "tag": "+INFTO",
+    "description": "infinitive marker to",
+    "example": "[he wants] to [go]"
+  },
+  {
+    "tag": "+ITJ",
+    "description": "interjection",
+    "example": "oh!"
+  },
+  {
+    "tag": "+MEAS",
+    "description": "measure abbreviation",
+    "example": "m, yd"
+  },
+  {
+    "tag": "+MONEY",
+    "description": "currency plus cardinal",
+    "example": "$1,000"
+  },
+  {
+    "tag": "+NOT",
+    "description": "negation not",
+    "example": "[he will] not [come in]"
+  },
+  {
+    "tag": "+NOUN",
+    "description": "common noun",
+    "example": "house"
+  },
+  {
+    "tag": "+NOUNING",
+    "description": "nominal ing-form",
+    "example": "[his] working; [good at] singing"
+  },
+  {
+    "tag": "+ORD",
+    "description": "ordinal",
+    "example": "3rd, second"
+  },
+  {
+    "tag": "+PARTPAST",
+    "description": "past participle (in subclause)",
+    "example": "[while] seated [he ...]; [the car] sold [on Monday]"
+  },
+  {
+    "tag": "+PARTPRES",
+    "description": "present participle (in subclause), gerund",
+    "example": "[while] doing [it];[they began] designing [the ship];having [said this ...]"
+  },
+  {
+    "tag": "+POSS",
+    "description": "possessive suffix 's",
+    "example": "[Peter] 's ;  [houses] '"
+  },
+  {
+    "tag": "+PREDET",
+    "description": "pre-determiner such, half",
+    "example": "such [a way] ; half [the price]"
+  },
+  {
+    "tag": "+PREP",
+    "description": "preposition",
+    "example": "in [the house], on [the table]"
+  },
+  {
+    "tag": "+PREPADVAS",
+    "description": "preposition or adverbial as",
+    "example": "as [big] as"
+  },
+  {
+    "tag": "+PRON",
+    "description": "(non-personal) pronoun",
+    "example": "everybody, all, this [is ] mine"
+  },
+  {
+    "tag": "+PRONONE",
+    "description": "pronoun one",
+    "example": "one [of them]; [the green] one"
+  },
+  {
+    "tag": "+PRONPERS",
+    "description": "personal pronoun",
+    "example": "I, me, we, you"
+  },
+  {
+    "tag": "+PRONREFL",
+    "description": "reflexive pronoun",
+    "example": "myself, ..."
+  },
+  {
+    "tag": "+PRONREL",
+    "description": "relative pronoun who, whom, whose; which; that",
+    "example": "[the man] who [wrote that book];[the man] whose [book I read]"
+  },
+  {
+    "tag": "+PROP",
+    "description": "proper name",
+    "example": "Peter, Mr. Brown"
+  },
+  {
+    "tag": "+PUNCT",
+    "description": "punctuation (other than SENT and CM)",
+    "example": ": - ;"
+  },
+  {
+    "tag": "+QUANT",
+    "description": "quantifier all, any, both, double, each, enough, every, (a) few, half, many, some",
+    "example": "many [prople]; half [the price]; all [your children]; \t  time [enough]; any [of these]"
+  },
+  {
+    "tag": "+QUANTADV",
+    "description": "quantifier or adverb much, little",
+    "example": "much [better] , [he cares] little"
+  },
+  {
+    "tag": "+QUANTCMP",
+    "description": "quantifier or comparative adverb more, less",
+    "example": "more [people], more [expensive]"
+  },
+  {
+    "tag": "+QUANTSUP",
+    "description": "quantifier or superlative adverb most, least",
+    "example": "most [people], most [expensive]"
+  },
+  {
+    "tag": "+SENT",
+    "description": "sentence final punctuation",
+    "example": ". ! ?"
+  },
+  {
+    "tag": "+TIT",
+    "description": "title",
+    "example": "Mr., Dr."
+  },
+  {
+    "tag": "+VAUX",
+    "description": "auxiliary (modal)",
+    "example": "[he] will [run], [I] won't [come]"
+  },
+  {
+    "tag": "+VBI",
+    "description": "infinitive or imperative of be",
+    "example": "[he will] be [running]; be [quiet!]"
+  },
+  {
+    "tag": "+VBPAP",
+    "description": "past participle of  be",
+    "example": "[he has] been [there]"
+  },
+  {
+    "tag": "+VBPAST",
+    "description": "past tense of be",
+    "example": "[he] was [running], [he] was [here]"
+  },
+  {
+    "tag": "+VBPRES",
+    "description": "present tense of be",
+    "example": "[he] is [running], [he] is [old]"
+  },
+  {
+    "tag": "+VBPROG",
+    "description": "ing-form of  be",
+    "example": "[it is] being [sponsored]"
+  },
+  {
+    "tag": "+VDI",
+    "description": "infinitive or imperative of do",
+    "example": "[He will] do [it]; do [not open!]"
+  },
+  {
+    "tag": "+VDPAP",
+    "description": "past participle of do",
+    "example": "[he has] done [it]"
+  },
+  {
+    "tag": "+VDPAST",
+    "description": "past tense of  do",
+    "example": "[we] did [it], [he] didn't [come]"
+  },
+  {
+    "tag": "+VDPRES",
+    "description": "present tense of  do",
+    "example": "[We] do [it], [he] doesn't [go]"
+  },
+  {
+    "tag": "+VDPROG",
+    "description": "ing-form of  do",
+    "example": "[He is] doing [it]"
+  },
+  {
+    "tag": "+VHI",
+    "description": "infinitive or imperative of have",
+    "example": "[he would] have [come]; have [a look!]"
+  },
+  {
+    "tag": "+VHPAP",
+    "description": "papst participle of have",
+    "example": "[he has] had a cold"
+  },
+  {
+    "tag": "+VHPAST",
+    "description": "past tense of have",
+    "example": "[he] had [seen]"
+  },
+  {
+    "tag": "+VHPRES",
+    "description": "present tense of  have",
+    "example": "[he] has [been watching]"
+  },
+  {
+    "tag": "+VHPROG",
+    "description": "ing-form of  have",
+    "example": "[he is] having [a good time]"
+  },
+  {
+    "tag": "+VI",
+    "description": "verb infinitive or imperative",
+    "example": "[he will] go, [he comes to] see; listen [!]"
+  },
+  {
+    "tag": "+VPAP",
+    "description": "verb past participle",
+    "example": "[he has] played, [it is] written"
+  },
+  {
+    "tag": "+VPAST",
+    "description": "verb past tense",
+    "example": "[I] went, [he] loved"
+  },
+  {
+    "tag": "+VPRES",
+    "description": "verb present tense",
+    "example": "[we] go, [she] loves"
+  },
+  {
+    "tag": "+VPROG",
+    "description": "verb ing-form",
+    "example": "[you are] going"
+  },
+  {
+    "tag": "+VS",
+    "description": "verbal 's (short for is or has)",
+    "example": "[he] 's [coming]"
+  },
+  {
+    "tag": "+WADV",
+    "description": "interrogative adverb",
+    "example": "when, where, why"
+  },
+  {
+    "tag": "+WDET",
+    "description": "interrogative determiner",
+    "example": "which [book], whose [hat]"
+  },
+  {
+    "tag": "+WPRON",
+    "description": "interrogative pronoun",
+    "example": "who [is], what [is]"
+  }
+]

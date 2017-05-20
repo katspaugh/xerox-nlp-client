@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+
+const posTag = require('../index.js');
+
+posTag(process.argv[2], process.argv[3])
+  .then(data => console.log(JSON.stringify(data, true, 2)));

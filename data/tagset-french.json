@@ -1,0 +1,227 @@
+[
+  {
+    "tag": "+ADJ2_INV",
+    "description": "special number invariant adjective",
+    "example": "gros"
+  },
+  {
+    "tag": "+ADJ2_PL",
+    "description": "special plur. adjective",
+    "example": "petites, grands"
+  },
+  {
+    "tag": "+ADJ2_SG",
+    "description": "special sing. adjective",
+    "example": "petit, grande"
+  },
+  {
+    "tag": "+ADJ_INV",
+    "description": "number invariant adjective",
+    "example": "heureux"
+  },
+  {
+    "tag": "+ADJ_PL",
+    "description": "plural adjective",
+    "example": "gentils, gentilles"
+  },
+  {
+    "tag": "+ADJ_SG",
+    "description": "singular adjective",
+    "example": "gentil, gentille"
+  },
+  {
+    "tag": "+ADV",
+    "description": "adverb",
+    "example": "finalement, aujourd'hui"
+  },
+  {
+    "tag": "+CM",
+    "description": "comma",
+    "example": ","
+  },
+  {
+    "tag": "+COMME",
+    "description": "reserved for the word ``comme''",
+    "example": "comme"
+  },
+  {
+    "tag": "+CONJQUE",
+    "description": "reserved for the word ``que''",
+    "example": "que"
+  },
+  {
+    "tag": "+CONN",
+    "description": "connector subordinate conjunction",
+    "example": "si, quand"
+  },
+  {
+    "tag": "+COORD",
+    "description": "coordinate conjunction",
+    "example": "et, ou"
+  },
+  {
+    "tag": "+DET_PL",
+    "description": "plural determiner",
+    "example": "les"
+  },
+  {
+    "tag": "+DET_SG",
+    "description": "singular determiner",
+    "example": "le, la"
+  },
+  {
+    "tag": "+MISC",
+    "description": "miscellaneous",
+    "example": "miaou, afin"
+  },
+  {
+    "tag": "+NEG",
+    "description": "negation particule",
+    "example": "reserved for ne"
+  },
+  {
+    "tag": "+NOUN_INV",
+    "description": "number invariant noun",
+    "example": "taux"
+  },
+  {
+    "tag": "+NOUN_PL",
+    "description": "plural noun",
+    "example": "chiens, fourmis"
+  },
+  {
+    "tag": "+NOUN_SG",
+    "description": "singular noun",
+    "example": "chien, fourmi"
+  },
+  {
+    "tag": "+NUM",
+    "description": "numeral",
+    "example": "treize, 13, XIX"
+  },
+  {
+    "tag": "+PAP_INV",
+    "description": "number invariant past participle",
+    "example": "soumis"
+  },
+  {
+    "tag": "+PAP_PL",
+    "description": "plural past participle",
+    "example": "finis, finies"
+  },
+  {
+    "tag": "+PAP_SG",
+    "description": "singular past participle",
+    "example": "fini, finie"
+  },
+  {
+    "tag": "+PC",
+    "description": "clitic pronoun",
+    "example": "[donne-]le, [appelle-]moi, [donne-]lui"
+  },
+  {
+    "tag": "+PREP",
+    "description": "preposition (other than à, au, de, du ... )",
+    "example": "dans, après"
+  },
+  {
+    "tag": "+PREP_A",
+    "description": "preposition ``à''",
+    "example": "à, au, aux"
+  },
+  {
+    "tag": "+PREP_DE",
+    "description": "preposition ``de''",
+    "example": "de, d', du, des"
+  },
+  {
+    "tag": "+PRON",
+    "description": "pronoun",
+    "example": "il, elles, personne, rien"
+  },
+  {
+    "tag": "+PRON_P1P2",
+    "description": "1st or 2nd person pronoun",
+    "example": "je, tu, nous"
+  },
+  {
+    "tag": "+PUNCT",
+    "description": "punctuation (other that comma)",
+    "example": ": -"
+  },
+  {
+    "tag": "+RELPRO",
+    "description": "relative/interrog. pronoun (exept ``que'')",
+    "example": "qui, quoi, lequel"
+  },
+  {
+    "tag": "+SENT",
+    "description": "sentence final punctuation",
+    "example": ". ! ? ;"
+  },
+  {
+    "tag": "+SGML",
+    "description": "SGML tag",
+    "example": "<article>"
+  },
+  {
+    "tag": "+VAUX_INF",
+    "description": "infinitive auxiliary",
+    "example": "être, avoir"
+  },
+  {
+    "tag": "+VAUX_P1P2",
+    "description": "1st or 2nd pers. aux., any tense",
+    "example": "suis, as"
+  },
+  {
+    "tag": "+VAUX_P3PL",
+    "description": "3rd pers. plur. aux., any tense",
+    "example": "seraient"
+  },
+  {
+    "tag": "+VAUX_P3SG",
+    "description": "3rd pers. sing. aux., any tense",
+    "example": "aura"
+  },
+  {
+    "tag": "+VAUX_PAP",
+    "description": "past participle auxiliary",
+    "example": "eu, été"
+  },
+  {
+    "tag": "+VAUX_PRP",
+    "description": "present participle auxiliary",
+    "example": "ayant"
+  },
+  {
+    "tag": "+VERB_INF",
+    "description": "infinitive verb",
+    "example": "danser, finir"
+  },
+  {
+    "tag": "+VERB_P1P2",
+    "description": "1st or 2nd pers. verb, any tense",
+    "example": "danse, dansiez, dansais"
+  },
+  {
+    "tag": "+VERB_P3PL",
+    "description": "3rd pers. plur. verb, any tense",
+    "example": "danseront"
+  },
+  {
+    "tag": "+VERB_P3SG",
+    "description": "3rd pers. sing. verb, any tense",
+    "example": "danse, dansait"
+  },
+  {
+    "tag": "+VERB_PRP",
+    "description": "present participle verb",
+    "example": "dansant"
+  },
+  {
+    "tag": "+VOICILA",
+    "description": "reserved for ``voici'', ``voilà''",
+    "example": "voici, voilà"
+  }
+]
