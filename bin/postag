@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 
+const fs = require('fs');
+const path = require('path');
 const posTag = require('../index.js');
 
-posTag(process.argv[2], process.argv[3])
+posTag(fs.readFileSync(path.resolve(process.argv[2])).toString('utf-8'), process.argv[3])
   .then(data => console.log(JSON.stringify(data, true, 2)));

@@ -50,10 +50,18 @@ function formatResponse(data) {
       const senseList = ensureArray(lexeme['sense-list']);
       const senses = ensureArray(senseList[0].sense);
       const sense = senses[0];
+      let surfaceForm = lexeme['surface-form'];
+      let baseForm = sense['base-form'];
+
+      if (surfaceForm['#text']) {
+        surfaceForm = surfaceForm['#text'];
+        if (surfaceForm instanceof Array) surfaceForm = surfaceForm.join('');
+        baseForm = surfaceForm;
+      }
 
       return {
-        surfaceForm: lexeme['surface-form'],
-        baseForm: sense['base-form'],
+        surfaceForm: surfaceForm,
+        baseForm: baseForm,
         partOfSpeech: sense['part-of-speech']['#text'].slice(1)
       }
     });
